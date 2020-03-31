@@ -5,3 +5,11 @@ Projeto de um sistema de rastreamento de ingredientes que a partir da distância
 Tecnologias:
 Plataforma: Unity
 Linguagem de programação: C#
+
+------------------------------------------------
+Augmented Reality
+Repository with the project for the Augmented Reality class at UFRPE. 
+This project is a food ingredient track system which measures the distance between the tracked food ingredientes and its able to recommend recipes that can be made with the group of tracked ingredients.
+
+Platform: Unity
+Programming language: C#
